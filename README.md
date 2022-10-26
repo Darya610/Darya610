@@ -9,5 +9,4 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image text](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)
